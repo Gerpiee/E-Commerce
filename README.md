@@ -1,14 +1,33 @@
-# E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
+# E-Commerce Application
 
-![eCommerce](https://i.ibb.co/mH9SNNq/Build-an-e-commerce-1.png)
+This project is a fully functional e-commerce application built using React.js, integrating various modern web technologies to provide a seamless shopping experience.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+## Technologies Used
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+- **React.js**: For building the user interface.
+- **Material-UI**: For modern and responsive UI components.
+- **React Router**: For handling routing within the application.
+- **Stripe**: For payment processing integration.
+- **Commerce.js**: For e-commerce functionality.
+- **React Hook Form**: For form management.
+- **Semantic UI React**: For additional UI components.
 
-In this video, we're going to build a fully functional eCommerce application using commerce.js. 
+## Features
 
-While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. 
+- **Product Management**: Displays products fetched from Commerce.js.
+- **Shopping Cart**: Allows users to add and remove products.
+- **Checkout Process**: Integrates Stripe for secure payments.
+- **Responsive Design**: Ensures optimal viewing across devices.
+- **Form Handling**: Utilizes React Hook Form for efficient form management.
+
+## Getting Started
+
+### Prerequisites
+
+- **Node.js**: Ensure that Node.js is installed on your system.
+
+### Installation
+
+1. **Clone the Repository**: Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/Gerpiee/E-Commerce.git
